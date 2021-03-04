@@ -12,6 +12,7 @@
 	- adobe  photoshop：简称PS，主要用于处理位图  
 	- adobe illustrator：简称AI，主要用于处理矢量图   
 - 一般是两款软件配合使用，在PS中画图，在AI中进行矢量化处理   
+- 界面的图标可以使用**svg格式**的文件，可以修改图标的颜色[07-icons-1.1.0.zip](./10-others/07-icons-1.1.0.zip)       
 
 ## [相关书籍](./01-making-icons-book)    
 
